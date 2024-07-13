@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vu</h1>
 
 <h3 align="left">Connect with me: lenhathoanvu@gmail.com</h3>
-<h3 align="left">My Portfolio: (https://lenhathoanvu.github.io)</h3>
+<h3 align="left">My Portfolio: https://lenhathoanvu.github.io</h3>
 
 <p align="left">
 </p>
