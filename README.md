@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vu</h1>
-<h3 align="center">I'm studying Data Science in Business at Ho Chi Minh University of Banking. I have a passion for analyzing data and making predictions to uncover valuable insights. Using data to solve problems and drive informed business decisions excites me. I thrive in dynamic environments where I can apply my skills in data visualization, statistical analysis, and machine learning to deliver actionable results. My goal is to leverage data to enhance operational efficiency and contribute to strategic decision-making.</h3>
+<h3 align="center"></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
