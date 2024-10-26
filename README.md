@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vu</h1>
 
 ---
-
+<h3 align="left">:globe_with_meridians: Socials</h3>:globe_with_meridians: 
 <div align="left"> 
   <a href="mailto:lenhathoanvu@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
