@@ -1,4 +1,5 @@
 <div align="center"> 
+<img src="https://count.getloli.com/@pocket?name=pocket&theme=booru-vp&padding=9&offset=0&scale=1&pixelated=1&darkmode=auto&num=123456789" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1BF7CA&center=true&vCenter=true&width=300&lines=Hi%2C+I'm+Hoan+Vu" alt="Typing SVG" /></a>
 <br><br>
     <pre>
