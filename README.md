@@ -7,7 +7,7 @@
     🎮 Music • Games • Anime • Book • Art • Soccer
     </pre>
 <br><br>
-<img src="https://count.getloli.com/@pocket?name=pocket&theme=booru-vp&padding=9&offset=0&scale=1&pixelated=1&darkmode=auto&num=123456789">
+<img src="https://count.getloli.com/@monster?name=monster&theme=booru-vp&padding=10&offset=0&scale=1&pixelated=1&darkmode=auto&num=1234567890">
 <br><br><br>
   
 #
