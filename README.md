@@ -22,10 +22,6 @@
   </a>
   <a href= "https://lenhathoanvu.github.io/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-  </a>
-    <a href= "https://lenhathoanvu.github.io/" target="_blank">
-     <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" target="_blank" /> 
-  </a>
 </div>
 
 #
@@ -43,6 +39,9 @@
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/>
+  </a>
+      <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt ="vscode" width="40" height="40"/>
   </a>
 </p>
 
