@@ -49,8 +49,8 @@
 
 <h3 align="left">📊 Stats</h3>
 
-![HoanVu's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenhathoanvu&show_icons=true&theme=tokyonight)
-
+![](https://github-readme-stats.vercel.app/api?username=lenhathoanvu&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lenhathoanvu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 # 
 
 <h3 align="left">:headphones: Music</h3>
