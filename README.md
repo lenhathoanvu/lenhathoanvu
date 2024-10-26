@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋, I'm Vu</h1>
 
-<h3 align="left">Connect with me: lenhathoanvu@gmail.com</h3>
-<h3 align="left">My Portfolio: https://lenhathoanvu.github.io</h3>
-
-<p align="left">
-</p>
+<div align="left"> 
+  <a href="mailto:lenhathoanvu@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/lenhathoanvu/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href= "https://lenhathoanvu.github.io/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
 <h3 align="left">🧰 Languages and Tools</h3>
 <p align="left">
