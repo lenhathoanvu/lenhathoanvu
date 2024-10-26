@@ -56,3 +56,7 @@
 <h3 align="left">:headphones: Music</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eqsnpucdy7xksqkj6cfvbgiz4e&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31eqsnpucdy7xksqkj6cfvbgiz4e&redirect=true)
+
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31eqsnpucdy7xksqkj6cfvbgiz4e">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31eqsnpucdy7xksqkj6cfvbgiz4e" alt="Data Card for Spotify">
+</a>
