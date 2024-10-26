@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vu</h1>
 
+<div align="left"> 
+    <img src="https://count.getloli.com/@:booru-vp" />
+  </a>
+  
 ---
 <h3 align="left">:globe_with_meridians: Socials</h3>
 <div align="left"> 
