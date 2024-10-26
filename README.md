@@ -22,5 +22,5 @@
   </a>
 </p>
 
-<h3 align="left">📊 Stats</h3>📊 Stats
+<h3 align="left">📊 Stats</h3>
 ![HoanVu's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenhathoanvu&show_icons=true&theme=tokyonight)
