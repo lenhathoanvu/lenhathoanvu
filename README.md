@@ -23,6 +23,9 @@
   <a href= "https://lenhathoanvu.github.io/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
+    <a href= "https://lenhathoanvu.github.io/" target="_blank">
+     <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" target="_blank" /> 
+  </a>
 </div>
 
 #
