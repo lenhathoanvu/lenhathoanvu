@@ -6,7 +6,7 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🧰 Languages and Tools</h3>
 <p align="left">
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="mssql" width="40" height="40"/>
@@ -22,6 +22,5 @@
   </a>
 </p>
 
+<h3 align="left">📊 Stats</h3>📊 Stats
 ![HoanVu's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenhathoanvu&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenhathoanvu&hide_progress=true)
