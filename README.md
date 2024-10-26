@@ -1,11 +1,9 @@
 <div align="center"> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1BF7CA&center=true&vCenter=true&width=300&lines=Hi%2C+I'm+Hoan+Vu" alt="Typing SVG" /></a>
 <br><br>
-<pre>
     💼 I'm a Data Science student at Ho Chi Minh University of Banking
     💻 Data Analyst
-    🎮 Music • Games • Anime • Book • Art
-</pre>
+    🎮 Music • Games • Anime • Book • Art • 
 <br><br>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
 <br><br><br>
