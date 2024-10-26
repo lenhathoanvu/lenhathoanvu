@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vu</h1>
 
-<div align="left"> 
-    <img src="https://count.getloli.com/@:booru-vp" />
+<div align="center"> 
+    <img src="https://count.getloli.com/@:booru-twifanartsfw" />
   </a>
   
 ---
