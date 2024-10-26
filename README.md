@@ -1,8 +1,5 @@
 <div align="center"> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1BF7CA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hoan+Vu" alt="Typing SVG" /></a>
-
-#
-
 <br><br>
 <pre>
     💼 I'm a Data Science student at Ho Chi Minh University of Banking
@@ -13,7 +10,8 @@
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
   
----
+#
+
 <h3 align="left">:globe_with_meridians: Socials</h3>
 <div align="left"> 
   <a href="mailto:lenhathoanvu@gmail.com" target="_blank">
