@@ -1,5 +1,5 @@
 <div align="center"> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1BF7CA&center=true&vCenter=true&width=300&lines=Hi%2C+I'm+Hoan+Vu" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1BF7CA&center=true&vCenter=true&width=700&lines=Welcome+to+my+Github+Profile;Hi%2C+I'm+Hoan+Vu" alt="Typing SVG" /></a>" alt="Typing SVG" /></a>
 <br><br>
     <pre>
     💼 Data Science student at Ho Chi Minh University of Banking
