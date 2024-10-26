@@ -37,3 +37,7 @@
 <h3 align="left">📊 Stats</h3>
 
 ![HoanVu's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenhathoanvu&show_icons=true&theme=tokyonight)
+
+#
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eqsnpucdy7xksqkj6cfvbgiz4e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
